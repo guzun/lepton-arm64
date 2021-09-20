@@ -1,6 +1,8 @@
 *.a
 *.o
 .deps
+.DS_STORE
+.DS_Store
 Makefile
 Makefile.in
 
